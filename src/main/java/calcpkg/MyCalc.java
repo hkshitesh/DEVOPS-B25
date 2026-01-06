@@ -25,6 +25,9 @@ public class MyCalc {
 		System.out.println("Hello GFG");
 		System.out.println("Hello Maven");
 		System.out.println("Hello Docker");
+		System.out.println("Hello Simplilearn");
+		System.out.println("Hello SRE");
+		System.out.println("Hello Team");
 	}
 
 	public static void main(String[] args) {
